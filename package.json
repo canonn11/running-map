@@ -1,0 +1,27 @@
+{
+  "name": "running-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canonn11/running-map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canonn11/running-map/issues"
+  },
+  "homepage": "https://github.com/canonn11/running-map#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mocha": "^10.0.0",
+    "nodejs": "0.0.0",
+    "nodemon": "^2.0.20",
+    "supertest": "^6.2.4"
+  }
+}
