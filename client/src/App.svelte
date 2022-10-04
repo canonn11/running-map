@@ -3,7 +3,7 @@
   import About from "./About.svelte";
   import Home from "./Home.svelte";
 </script>
-<div class="">vercel 배포 테스트123</div>
+<div class="">vercel 배포 테스트2</div>
 <main>
   <a href="/">홈</a>
   <a href="/#/About">어바웃12</a>
